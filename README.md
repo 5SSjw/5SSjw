@@ -12,7 +12,6 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
   
-
 <p>&emsp;&emsp;Hello, <b>Niky</b> here.</p>
 <p>&emsp;&emsp;I'm currently studying <b>Software Engineering</b> at <b>Northeastern University </b>(China).</p>
 <p>&emsp;&emsp;Passionate about <b>Computer Science</b> and <b>Artificial Intelligence</b> direction, motivated to become a senior computer scientist!</p>
@@ -25,13 +24,9 @@
 
 <tr>
 <td>
-  
 ### 🏢 Education Experience
 
-
-
 - **Northeastern University** &emsp; 📌 2020-9 —— 2024-6
-  
   - **Major**: Software Engineering
   - **GPA**：3.85
   - **Comprehensive Rank**：25/389(2022)
@@ -41,10 +36,7 @@
 
 <tr><td>
 
-<p>Last Updated on 22/04/2023 12:55:07 UTC<p>&emsp;
-<h1 style="text-align:center"> 
-
-![Metrics](https://metrics.lecoq.io/5SSjw?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
+<p>Last Updated on 22/04/2023 12:24:07 UTC<p>&emsp;
 
 
 
@@ -57,15 +49,22 @@
 
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=5SSjw&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=5SSjw&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=5SSjw&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 <!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/wanghanbinpanda/Streamlit-Documentation-Chinese">
+<!--<a href="https://github.com/wanghanbinpanda/Streamlit-Documentation-Chinese">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=wanghanbinpanda&repo=Streamlit-Documentation-Chinese&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/5SSjw/Star-village-volunteer">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=5SSjw&repo=Star-village-volunteer&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=5SSjw&repo=Star-village-volunteer&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>-->
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<h1 style="text-align:center"> 
+
+![Metrics](https://metrics.lecoq.io/5SSjw?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
+
+</h1>
+
+
 <!--  skill badge 技能徽章 -->
 
 
