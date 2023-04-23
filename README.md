@@ -12,12 +12,12 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
   
-<p>&emsp;&emsp;Hello, <b>Niky</b> here.</p>
-<p>&emsp;&emsp;I'm currently studying <b>Software Engineering</b> at <b>Northeastern University </b>(China).</p>
-<p>&emsp;&emsp;Passionate about <b>Computer Science</b> and <b>Artificial Intelligence</b> direction, motivated to become a senior computer scientist!</p>
+<p>&emsp;&emsp;👋Hello, <b>Niky</b> here.</p>
+<p>&emsp;&emsp;🎓️I'm currently studying <b>Software Engineering</b> at <b>Northeastern University </b>(China).</p>
+<p>&emsp;&emsp;✌Passionate about <b>Computer Science</b> and <b>Artificial Intelligence</b> direction, motivated to become a senior computer scientist!</p>
 <p>&emsp;&emsp; <b>Contact me</b>:
-<p>&emsp;&emsp;&emsp; <b>QQ</b>: 2015713717
-<p>&emsp;&emsp;&emsp; <b>E-mail</b>: s2015713717@gmail.com
+<p>&emsp;&emsp;&emsp; <b>🐧QQ</b>: 2015713717
+<p>&emsp;&emsp;&emsp; <b>📧E-mail</b>: s2015713717@gmail.com
 
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <div>&emsp;</div>
@@ -29,16 +29,16 @@
 ### 🏢 Education Experience
 
 - **Northeastern University** &emsp; 📌 2020-9 —— 2024-6
-  - **Major**: Software Engineering
-  - **GPA**：3.85
-  - **Comprehensive Rank**：25/389(2022)
+  - **👨‍💻Major**: Software Engineering
+  - **🏅GPA**：3.85
+  - **🥇Comprehensive Rank**：25/389(2022)
 <div>&emsp;</div>
 </td>
 </tr>
 
 <tr><td>
 
-<p>Last Updated on 22/04/2023 13:08:07 UTC<p>&emsp;
+<p>Last Updated on 22/04/2023 09:45:07 UTC<p>&emsp;
 
 
 
