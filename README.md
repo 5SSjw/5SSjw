@@ -12,7 +12,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="250" src="https://note.youdao.com/yws/api/personal/file/WEB355052baf87091849939f463ed3443c4?method=download&shareKey=5c98118dd40e3cca502ca1368f0bcb63" />
+<img align="right" width="250" src="https://github.com/5SSjw/5SSjw/blob/main/assets/AI_Cat.jpg" />
 <p>&emsp;&emsp;👋Hello, <b>Niky</b> here.</p>
 <p>&emsp;&emsp;🎓️I'm currently studying <b>Software Engineering</b> at <b>Northeastern University </b>(China).</p>
 <p>&emsp;&emsp;✌Passionate about <b>Computer Science</b> and <b>Artificial Intelligence</b> direction, motivated to become a senior computer scientist!</p>
