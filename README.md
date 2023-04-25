@@ -11,7 +11,8 @@
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
-  
+
+<img align="right" width="250" src="../assets/AI_Cat.jpg" />
 <p>&emsp;&emsp;👋Hello, <b>Niky</b> here.</p>
 <p>&emsp;&emsp;🎓️I'm currently studying <b>Software Engineering</b> at <b>Northeastern University </b>(China).</p>
 <p>&emsp;&emsp;✌Passionate about <b>Computer Science</b> and <b>Artificial Intelligence</b> direction, motivated to become a senior computer scientist!</p>
@@ -38,7 +39,7 @@
 
 <tr><td>
 
-<p>Last Updated on 22/04/2023 09:45:07 UTC<p>&emsp;
+<p>Last Updated on 25/04/2023 34:11:07 UTC<p>&emsp;
 
 
 
