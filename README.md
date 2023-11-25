@@ -32,7 +32,7 @@
 - **Northeastern University** &emsp; 📌 2020-9 —— 2024-6
   - **👨‍💻Major**: Software Engineering
   - **🏅GPA**：3.9
-  - **🥇Comprehensive Rank**：25/389(2022)
+  - **🥇Comprehensive Rank**：25/389(2022),3/384(2023).
 <div>&emsp;</div>
 </td>
 </tr>
