@@ -14,11 +14,11 @@
 
 <img align="right" width="250" src="https://github.com/5SSjw/5SSjw/blob/main/assets/AI_Cat.jpg" />
 <p>&emsp;&emsp;👋Hello, <b>Niky(宋经纬)</b> here.</p>
-<p>&emsp;&emsp;🎓️I'm currently studying <b>Software Engineering</b> at <b>Northeastern University </b>(China).</p>
-<p>&emsp;&emsp;✌Passionate about <b>Computer Science</b> and <b>Artificial Intelligence</b> direction, motivated to become a senior computer scientist!</p>
+<!-- <p>&emsp;&emsp;🎓️I'm currently studying <b>Software Engineering</b> at <b>Northeastern University </b>(China).</p> -->
+<p>&emsp;&emsp;✌Passionate about <b>Computer Science</b> and <b>LLM & NLP</b> direction, motivated to become a senior computer scientist!</p>
 <p>&emsp;&emsp; <b>Contact me</b>:
 <p>&emsp;&emsp;&emsp; <b>🐧QQ</b>: 2015713717
-<p>&emsp;&emsp;&emsp; <b>📧E-mail</b>: s2015713717@gmail.com
+<p>&emsp;&emsp;&emsp; <b>📧E-mail</b>: s2015713717@gmail.com; u3638265@connect.hku.hk
 
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <div>&emsp;</div>
@@ -28,10 +28,15 @@
 <td>
 
 ### 🏢 Education Experience
+- **The University of Hong Kong** &emsp; 📌 2024-9 —— 
+  - **👨‍💻Major**: ComputerScience
+  - **🏅GPA**：3.63/4.3
+  - **🥇Distinction.
+<div>&emsp;</div>
 
 - **Northeastern University** &emsp; 📌 2020-9 —— 2024-6
   - **👨‍💻Major**: Software Engineering
-  - **🏅GPA**：3.9
+  - **🏅GPA**：3.95/5
   - **🥇Comprehensive Rank**：25/389(2022),3/384(2023).
 <div>&emsp;</div>
 </td>
