@@ -44,7 +44,7 @@
 
 <tr><td>
 
-<p>Last Updated on 04/05/2023 35:51:22 UTC+8<p>&emsp;
+<p>Last Updated on 26/12/2025 00:13:16 UTC+8<p>&emsp;
 
 <div align="center" >
 💪 Language & Skills
