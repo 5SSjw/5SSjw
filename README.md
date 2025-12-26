@@ -46,7 +46,7 @@
 
 <p>Last Updated on 04/05/2023 35:51:22 UTC+8<p>&emsp;
 
-
+<div align="center" >
 💪 Language & Skills
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
