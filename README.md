@@ -12,7 +12,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<p>&emsp;&emsp;👋Hello, <b>Niky(宋经纬)</b> here.</p>
+<p>&emsp;&emsp;👋Hello, <b>Niky</b> here.</p>
 <!-- <p>&emsp;&emsp;🎓️I'm currently studying <b>Software Engineering</b> at <b>Northeastern University </b>(China).</p> -->
 <p>&emsp;&emsp;✌Passionate about <b>Computer Science</b> and <b>LLM & NLP</b> direction, motivated to become a senior computer scientist!</p>
 <p>&emsp;&emsp; <b>Contact me</b>:
